@@ -1,0 +1,129 @@
+body {
+            font-family: 'Times New Roman', Times, serif;
+        }
+
+        /* ==========================================
+       LIGHT MODE
+       ========================================== */
+
+        body.light-mode {
+            background-color: #f1f5f9 !important;
+            color: #0f172a !important;
+        }
+
+        /* Header */
+        body.light-mode header {
+            background-color: rgba(255, 255, 255, 0.92) !important;
+            border-color: #cbd5e1 !important;
+        }
+
+        /* Semua section utama */
+        body.light-mode .bg-slate-800\/50 {
+            background-color: rgba(255, 255, 255, 0.90) !important;
+            border-color: #cbd5e1 !important;
+        }
+
+        /* Card bagian dalam */
+        body.light-mode .bg-slate-900\/40 {
+            background-color: #e2e8f0 !important;
+            border-color: #cbd5e1 !important;
+        }
+
+        /* Card pengalaman */
+        body.light-mode .bg-slate-900\/60 {
+            background-color: #e2e8f0 !important;
+            border-color: #cbd5e1 !important;
+        }
+
+        /* Background foto profil */
+        body.light-mode .bg-slate-900\/50 {
+            background-color: #e2e8f0 !important;
+            border-color: #cbd5e1 !important;
+        }
+
+        /* Badge */
+        body.light-mode .bg-slate-800 {
+            background-color: #dbeafe !important;
+        }
+
+        /* Warna teks */
+        body.light-mode .text-slate-100 {
+            color: #0f172a !important;
+        }
+
+        body.light-mode .text-slate-200 {
+            color: #1e293b !important;
+        }
+
+        body.light-mode .text-slate-300 {
+            color: #334155 !important;
+        }
+
+        body.light-mode .text-slate-400 {
+            color: #475569 !important;
+        }
+
+        body.light-mode .text-slate-500 {
+            color: #64748b !important;
+        }
+
+        /* Border */
+        body.light-mode .border-slate-700,
+        body.light-mode .border-slate-700\/50 {
+            border-color: #cbd5e1 !important;
+        }
+
+        body.light-mode .border-slate-800 {
+            border-color: #cbd5e1 !important;
+        }
+
+        /* Input dan textarea */
+        body.light-mode input,
+        body.light-mode textarea {
+            background-color: #f8fafc !important;
+            color: #0f172a !important;
+            border-color: #94a3b8 !important;
+        }
+
+        body.light-mode input::placeholder,
+        body.light-mode textarea::placeholder {
+            color: #64748b !important;
+        }
+
+        /* Navigasi mobile */
+        body.light-mode nav {
+            background-color: rgba(255, 255, 255, 0.97) !important;
+            border-color: #cbd5e1 !important;
+        }
+
+        /* Footer */
+        body.light-mode footer {
+            border-color: #cbd5e1 !important;
+        }
+
+        /* Tombol theme */
+        body.light-mode #themeToggle {
+            color: #f59e0b !important;
+        }
+
+        body.light-mode #themeToggle:hover {
+            background-color: #e2e8f0 !important;
+        }
+
+        /* Tombol hamburger */
+        body.light-mode #hamburgerBtn {
+            color: #334155 !important;
+        }
+
+        body.light-mode #hamburgerBtn:hover {
+            background-color: #e2e8f0 !important;
+            color: #0f172a !important;
+        }
+
+        /* Gradient nama pada Light Mode */
+        body.light-mode #namaHeader {
+            background-image: linear-gradient(to right, #ef4444, #b91c1c) !important;
+        }
+
+
+        
